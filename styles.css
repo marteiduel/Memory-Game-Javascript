@@ -1,0 +1,17 @@
+html {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: dimgray;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: auto;
+  width: 900px;
+}
+
+.card-images {
+  width: 150px;
+  height: 150px;
+}
